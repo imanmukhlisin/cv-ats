@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+*.docx
+*.pdf
+*.pptx
+*_report.json
+candidate_*.json
+cover_letter.json
+portfolio_spec.json
